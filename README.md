@@ -22,7 +22,7 @@ The configuration for GitWatcher is stored in a `config.json` file. The file sho
 
 - `git_repo_dir`: The directory of the Git repository to monitor.
 - `pattern`: The pattern to filter the changed files.
-- `webhook_url`: The Microsoft Teams webhook URL to send notifications to.
+- `webhook_url`: The Microsoft Teams webhook URL to send notifications to. Create webhook by following the following article: [Send Adaptive Cards to Microsoft Teams using Incoming Webhook](https://prod.support.services.microsoft.com/en-us/office/create-incoming-webhooks-with-workflows-for-microsoft-teams-8ae491c7-0394-4861-ba59-055e33f75498)
 
 ## Installation
 
