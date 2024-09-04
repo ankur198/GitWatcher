@@ -1,0 +1,5 @@
+{
+    "git_repo_dir": "/workspaces/gitwatcher/testRepo/express-mvc",
+    "pattern": "app/",
+    "webhook_url": "https://prod-21.centralindia.logic.azure.com:443/workflows/cd70c737cf6c4cbc81fc2f7c2e15a9af/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=D-T7_ueuUuuYy4zibbTHHXMv752-VWbbAiRV88tIT9c"
+}
