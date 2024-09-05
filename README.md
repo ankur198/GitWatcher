@@ -46,7 +46,7 @@ Create and configure the `config.json` file as described above.
 Run the GitWatcher utility:
 
 ```bash
-python gitwatcher.py
+python main.py
 ```
 
 The utility will start monitoring the specified Git repository for changes and send notifications to the configured Microsoft Teams channel when changes matching the specified pattern are detected.
