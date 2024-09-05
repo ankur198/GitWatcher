@@ -49,7 +49,7 @@ Run the GitWatcher utility:
 python main.py
 ```
 
-The utility will start monitoring the specified Git repository for changes and send notifications to the configur    ed Microsoft Teams channel when changes matching the specified pattern are detected.
+The utility will start monitoring the specified Git repository for changes and send notifications to the configured Microsoft Teams channel when changes matching the specified pattern are detected.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
