@@ -8,6 +8,9 @@ GitWatcher is a utility that monitors a specified Git repository for changes and
 - Filters changed files based on a specified pattern.
 - Sends notifications to a Microsoft Teams channel using an adaptive card.
 
+  ![image](https://github.com/user-attachments/assets/47f78cbd-17b1-4405-90a8-de0e7d67d174)
+
+
 ## Configuration
 
 The configuration for GitWatcher is stored in a `config.json` file. The file should contain the following fields:
